@@ -1,0 +1,20 @@
+{
+  "name": "nx-http-client",
+  "version": "1.0.0",
+  "description": "A http client based on fetch",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "typescript",
+    "fetch",
+    "http",
+    "axios"
+  ],
+  "author": "404 Not Found.",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  }
+}
