@@ -21,7 +21,7 @@
 - Import 'NxHttpClient'
 
 ``` typescript
-import NxHttpClient, { Method } from 'nx-http-client'
+import NxHttpClient, { Method } from '{your file path}'
 ```
 
 - Simple request
